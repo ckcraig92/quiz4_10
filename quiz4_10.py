@@ -53,3 +53,23 @@ elif selection == 2 and computerchoose == 1:
 else:
     print('you loose')        
 
+##or array
+#import random
+#rps=["rock, "paper", "scissors"]
+#while true
+#guess = int(input('input 0 for rock etc.))
+#if guess==4:
+#print('bye')
+#break
+#print('you chose: '+rsp[guess])
+#comm = random.randint(0,2)
+#print('computer choice' +rsp[com])
+#if(guess==com)
+#print("tie")
+#elif(guess==0 and com==2) or (guess==1 and com==0) or (guess==2 and comm==1);
+#print("you win")
+#else:
+#print("you lose")
+
+##or
+#wincombination = [[0,2] , [1,0] , [2,1]]
