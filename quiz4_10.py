@@ -25,7 +25,7 @@ else:
     print ("exit") 
 
 
-#loop process for user selection
+#loop process for computer selection
 if computerchoose == 0:
   
     print (f"computer chose:rock")
